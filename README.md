@@ -87,7 +87,7 @@ VITE_GEMINI_API_KEY=your_api_key_here
 Clone the repository:
 
 ```bash
-git clone https://github.com/fuurhan24/chef-claude.git
+git clone https://github.com/furqhan24/chef-claude.git
 ```
 
 Navigate to the project:
