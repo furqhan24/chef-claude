@@ -87,7 +87,7 @@ VITE_GEMINI_API_KEY=your_api_key_here
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/chef-claude.git
+git clone https://github.com/fuurhan24/chef-claude.git
 ```
 
 Navigate to the project:
@@ -171,5 +171,3 @@ This project was built as part of my journey learning **React and AI integration
 It provided hands-on practice with React hooks, form handling, asynchronous JavaScript, API integration, component communication, environment variables, and displaying dynamically generated AI content.
 
 ---
-
-⭐ **Built with React and Google Gemini.**
