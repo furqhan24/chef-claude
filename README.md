@@ -2,6 +2,8 @@
 
 **Chef Claude** is an AI-powered recipe generator built with **React** and **Google Gemini**. It allows users to enter ingredients they have available and generates a personalized recipe using AI.
 
+### 📂 [Source Code](https://github.com/yourusername/chef-claude)
+
 ## ✨ Features
 
 * 🥕 Add ingredients dynamically
